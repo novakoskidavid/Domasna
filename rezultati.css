@@ -1,0 +1,266 @@
+.header1{
+    background-color: #656565;
+    width: 100%;
+    height: 25px;
+    margin-top: 0px;
+}
+.p
+{
+    font: 8px;
+    color:white;
+    margin-left: 15%;
+}
+.glavno-meni{
+    background-color: #1b7700;
+    height:100px;
+    width: 100%;
+    margin-top: -10px;
+
+}
+.slika{
+    margin-left: 230px;
+    margin-top: -100px;
+}
+.p1{
+    color:#fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 60px;
+    margin-top:-50px;
+    cursor: pointer;
+    font-size: 25px;
+    
+}
+.search{
+    margin-left: 700px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+.settings{
+    margin-left:50px;
+    margin-top:-29px;
+    cursor: pointer;
+}
+.p2{
+    color: white;
+    margin-left: 50px;
+    margin-top:-25px;
+    cursor:pointer;
+
+}
+.box-registracija{
+width: 100px;
+height:30px;
+margin-top: -25px;
+background-color: black;
+margin-left: 130px;
+cursor: pointer;
+
+}
+.p3 {
+    color: white;
+    margin-left: 141px;
+    margin-top:-25px;
+    cursor:pointer;
+}
+.header2{
+    background-color: #085f00;
+    width: 100%;
+    height: 40px;
+    margin-top: 100px;
+}
+.box-nogomet{
+width: 135px;
+height:30px;
+margin-top: -35px;
+background-color:transparent;
+margin-left: 200px;
+cursor: pointer;
+flex-flow: row nowrap;
+cursor: pointer;
+}
+.p4{
+    width: 100px;
+height:30px;
+margin-top: -25px;
+color: white;
+margin-left: 270px;
+cursor: pointer;
+}
+.box-kosarka{
+    width: 135px;
+height:30px;
+margin-top: -35px;
+background-color:transparent;
+margin-left: 340px;
+cursor: pointer;
+
+}
+.p5{
+    width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:410px;
+    cursor: pointer;
+}
+.box-tenix{
+    width: 135px;
+    height:30px;
+    margin-top: -35px;
+    background-color:transparent;
+    margin-left: 480px;
+    cursor: pointer;
+
+}
+.p6 {
+    width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:550px;
+    cursor: pointer;
+
+}
+.box-hokej{
+    width: 135px;
+    height:30px;
+    margin-top: -35px;
+    background-color:transparent;
+    margin-left: 620px;
+    cursor: pointer;
+}
+.p7 {
+    width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:690px;
+    cursor: pointer;
+
+}
+.box-rakomet{
+    width: 135px;
+    height:30px;
+    margin-top: -35px;
+    background-color:transparent;
+    margin-left: 760px;
+    cursor: pointer;
+
+}
+.p8{
+    width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:830px;
+    cursor: pointer;
+}
+.box-odbojka{
+    width: 135px;
+    height:30px;
+    margin-top: -35px;
+    background-color:transparent;
+    margin-left: 900px;
+    cursor: pointer;
+}
+.p9{
+width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:960px;
+    cursor: pointer;
+}
+.box-bejzbol{
+    width: 135px;
+    height:30px;
+    margin-top: -35px;
+    background-color:transparent;
+    margin-left: 1040px;
+    cursor: pointer;
+}
+.p10{
+    width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:1110px;
+    cursor: pointer;
+}
+.box-amnogomet {
+    width: 135px;
+    height:30px;
+    margin-top: -35px;
+    background-color:transparent    ;
+    margin-left: 1180px;
+    cursor: pointer;
+
+}
+.p11{
+    width: 100px;
+    height:30px;
+    margin-top: -25px;
+    color: white;
+    margin-left:1210px;
+    cursor: pointer;
+}
+.fudbal-topka {
+width: 135px;
+height:30px;
+margin-top: -30px;
+margin-left:240px;
+cursor: pointer;
+}
+.kosarka-topka{
+    width: 135px;
+    height:30px;
+    margin-top: -24px;
+    margin-left:140px;
+    cursor: pointer;
+}
+.tenis-topka {
+    width: 135px;
+    height:30px;
+    margin-top: -24px;
+    margin-left:140px;
+    cursor: pointer;
+
+}
+.hokej-puck {
+    width: 135px;
+    height:30px;
+    margin-top: -24px;
+    margin-left:140px;
+    cursor: pointer;
+
+}
+.rakomet-topka{
+    width: 135px;
+    height:30px;
+    margin-top: -24px;
+    margin-left:140px;
+    cursor: pointer;
+
+}
+.topka-odbojka{
+    width: 135px;
+    height:30px;
+    margin-top: -24px;
+    margin-left:130px;
+    cursor: pointer;
+}
+.baseball-topka{
+    width: 135px;
+    height:30px;
+    margin-top: -24px;
+    margin-left:150px;
+    cursor: pointer;
+}
+.amfootball{
+    
+        width: 135px;
+        height:30px;
+        margin-top: -24px;
+        margin-left:100px;
+        cursor: pointer;
+}
