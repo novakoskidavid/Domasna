@@ -6,15 +6,16 @@
 }
 .p
 {
-    font: 8px;
-    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: 11px;
+    color:#B0B0B0;
     margin-left: 15%;
 }
 .glavno-meni{
     background-color: #1b7700;
     height:100px;
     width: 100%;
-    margin-top: -10px;
+    margin-top: -13px;
 
 }
 .slika{
