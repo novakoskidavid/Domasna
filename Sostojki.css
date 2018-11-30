@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: sans-serif;
+}
+.SostojkiNaslov {
+    width: 626px;
+    height: 417px;
+    border-radius: 12px;
+    margin:80px;
+   
+}
+.text {
+    margin-top: -380px;
+    margin-left: 80px;
+    color: #fff;
+    font-size: 18px;
+}
+.tekst{
+  color: #fff;
+    margin-top: 10px;
+    margin-left: 80px;
+    
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
