@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: sans-serif;
+}
+.BoxInfo{
+    margin: 40px;
+    width: 360px;
+    height: 430px;
+    background-color: #e5e6d6;
+}
+.MedBox {
+    width:360px;
+    height:40px;
+    background-color: #c96466;
+    margin-left: 0px;
+    margin-top: -5px;
+}
+.StrelkaDesno{
+    margin-left: 335px;
+    margin-top: -30px;
+    
+}
+.StrelkaLevo{
+    margin-left: 0px;
+    margin-top: -28px;
+}
+.most{
+    margin-left: 140px;
+    margin-top:-25px;
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+}
+.Tekst{
+    margin-top:-180px;
+    margin-left:40px;
+}
+.Party{
+    background-color: #e5e6d6;
+    width: 330px;
+    height: 190px;
+    margin-left: 600px;
+    margin-top: -300px;
+    border-radius: 8px;
+}
+.order{
+    width: 273px;
+        height: 32px;
+        border-radius: 2px;
+        border: none;
+        outline: none;
+        color: #7a3f42;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        background-color: #e4d49e;
+        margin-top: 67px;
+        margin-left:26px;
+        border-radius: 8px;
+        cursor: pointer;
+}
+.Join{
+    color:#1d2834;
+    margin-top: -76px;
+    margin-left: 110px;
+}
+.subscribe{
+    width: 150px;
+    height: 45px;
+        border-radius: 2px;
+        border: none;
+        outline: none;
+        color: #bbc4b4;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        background-color: #6f8b78;
+        margin-top: 95px;
+        margin-left:90px;
+        border-radius: 8px;
+        cursor: pointer;
+}
+
+.Budimpesta{
+    height: 240px;
+    width:220px;
+    background-color: #e5e6d6;
+    margin-top: 100px;
+    margin-left: 800px;
+    border-radius: 8px;
+}
+.slikagrad{
+    height: 160px;
+    width:220px;
+    border-radius: 8px;
+
+}
+.romania{
+    margin-top: -150px;
+    margin-left: 20px;
+}
+.oblak{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.Temperatura{
+    margin-left: 120px;
+    margin-top: -20px;
+}
